@@ -16,6 +16,7 @@ public class InheritanceDemo extends Parent {
 	public InheritanceDemo ()
 	{
 		System.out.println("Child");
+		System.out.println("Child2");
 	}
 public void shows()
 {
